@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Ardila Gomez</h1>
-<h3 align="center">Software Engineering Student at UdeA 🌟 | Backend Developer | Data Science.</h3>
+<h3 align="center">Systems Engineering Student at UdeA 🌟 | Backend Developer | Data Science.</h3>
 
 - 🌱 I’m currently learning Backend Development and Data science.
 - 🛠️ I enjoy solving challenges on LeetCode and HackerRank to sharpen my problem-solving and algorithmic thinking.
