@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="left">Librerias:</h3>
+<h3 align="left">Libraries:</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<h3 align="left">Bases de datos:</h3>
+<h3 align="left">Databases:</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@
   </a>
 </p>
 
-<h3 align="left">Herramientas:</h3>
+<h3 align="left">Tools:</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
