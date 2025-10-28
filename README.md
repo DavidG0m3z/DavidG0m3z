@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Ardila Gomez</h1>
+<h1 align="center">Hi 👋, I'm David Gomez</h1>
 <h3 align="center">Systems Engineering Student at UdeA 🌟 | Backend Developer | Data Science.</h3>
 
 - 🌱 I’m currently learning Backend Development and Data science.
