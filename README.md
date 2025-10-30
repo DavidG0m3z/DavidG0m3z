@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,js,ts" />
+    <img src="https://skillicons.dev/icons?i=java,py,ts" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn" />
   </a>
 </p>
 
