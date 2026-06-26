@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Ardila Gomez</h1>
 <h3 align="center">Software Engineer focused on backend engineering, cloud architecture and building digital products.</h3>
 
-- 💻 Software Engineer focused on backend development with Java, Spring Boot, .NET and NestJS.
+- 💻 Building scalable backend systems
 - ☁️ Currently learning AWS Cloud and Solution Architecture.
 - 🏗️ Passionate about Software Architecture, Clean Architecture and System Design.
 - 📱 Building mobile products with React Native.
-- 📚 Continuously learning and documenting my journey through real-world projects.
+- 📚 Continuously learning through hands-on projects and real-world software engineering.
 
 ## 📬 Connect with me
 
